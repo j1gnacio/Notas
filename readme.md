@@ -1,1 +1,1 @@
-Sistema de Análisis de Notas con Programación Funcional
+Procesamiento Funcional: En procesarNotasFuncional, se utilizan IntStream y métodos de la API de Streams para contar las notas, aprovechando el procesamiento en paralelo con parallel().

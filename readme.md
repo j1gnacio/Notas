@@ -1,1 +1,1 @@
-Presentación de Resultados: En el método main, se generan las notas, se muestran en consola y se procesan ambas implementaciones.
+Sistema de Análisis de Notas con Programación Funcional Objetivo:
